@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-viewpager2/tags/1.0.0,androidx-viewpager2,20087120a086001b115cd646a6ac5095;https://github.com/dandar3/android-androidx-viewpager2;https://github.com/dandar3/android-androidx-viewpager2;branches;tags;trunk;true;e5367de1-3a2c-31a7-468f-ce57b7db7bff;https://github.com/dandar3/android-androidx-viewpager2;;false;;;0"/>
+</provider>
+</psf>
